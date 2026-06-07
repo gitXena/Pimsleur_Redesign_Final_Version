@@ -6,7 +6,7 @@ const lessons = {
       id: 1,
       title: "Igbo Lesson 1",
       image: require("../assets/images/beautiful-portrait-young-nigerian-woman-260nw-2393008065.webp"),
-      content: "Welcome to Igbo lesson 1",
+      content: "Igbo, people living chiefly in southeastern Nigeria who speak Igbo, a language of the Benue-Congo branch of the Niger-Congo language family. Source: britanica.com",
     },
     {
       id: 2,
@@ -21,7 +21,7 @@ const lessons = {
       id: 1,
       title: "Yoruba Lesson 1",
       image: require("../assets/images/black-african-nigeria-yoruba-man-male-young-wearing-purple-agbada-traditional-clothes-pointing-fingers-something-302133898.webp"),
-      content: "Welcome to Yoruba lesson 1",
+      content: "Yoruba language, one of a small group of languages that comprise the Yoruboid cluster of the Defoid subbranch of the Benue-Congo branch of the Niger-Congo language family. The other Yoruboid languages include Igala and Itsekiri. Source: britanica.com",
     },
     {
       id: 2,
@@ -37,7 +37,7 @@ const lessons = {
       id: 1,
       title: "Hausa Lesson 1",
       image: require("../assets/images/d8c5e0e87235ebef8ebdf4c6d23bdb50.jpg"),
-      content: "Welcome to Hausa lesson 1",
+      content: "Hausa language, one of the most important indigenous lingua franca in West and Central Africa, spoken as a first or second language by about 40–50 million people. Source: britanica.com ",
     },
     {
       id: 2,
