@@ -1,0 +1,3 @@
+To begin running the prototype a desktop system with Nodejs, as well as project dependencies, which can be installed using the command “npm install”, must be used to run the code. An Android emulator or mobile device with Expo Go installed can be used for viewing outputs. The command “npx expo start” should be run in a terminal in the project directory. The emergent QR code can be scanned by an Android device or run in an Android emulator using the command “a” immediately after.
+
+Once these steps are taken, outcomes will begin to emerge, starting with the start-up screen prompting users to create an account or sign in. Both options are viable; however, user data will not be saved.
